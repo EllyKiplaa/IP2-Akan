@@ -12,8 +12,8 @@ ul li{
 section{
     padding: 100px 0;
 }
-.hero-section{
-    background-image: url(/images/myeimage.jpg);
+.top-section{
+    background-image: url(/images/domenico-loia-hGV2TfOh0ns-unsplash.jpg);
     background-size: cover;
     width: 100%;
     height: 40vh;
@@ -32,4 +32,18 @@ section{
 }
 .header{
     display: flex;
+}
+.menu {
+    font-size: 20px;
+    color: rgba(red, green, blue, alpha)
+
+}
+.menu 
+.avatar{
+    align-self: center;
+}
+ul>li:hover{
+    color: saddlebrown;
+    border: 2px;
+    
 }
