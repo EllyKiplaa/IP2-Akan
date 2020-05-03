@@ -1,4 +1,4 @@
-# My Portfolio website
+AKAN Names calculator
 This is my second project on Akan names.
 #### By **Eli Kiplangat Kirui.*
 ## Description
