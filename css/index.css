@@ -11,9 +11,17 @@ body {
     background-repeat: no-repeat;
     background-blend-mode: multiply;
 }
+
     
-h2 {
+h1{
     text-align: left;
+    color:maroon;
+    font-family: Verdana, Geneva;
+}
+h2{
+   
+    color: maroon   ;
+
 }
 .container{
     background-color: thistle;
