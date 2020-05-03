@@ -29,7 +29,6 @@ else{
 }
 //concatinating the day you were born and the Akan name
 alert("You were born on "+ dateWeek[d] + " and your Akan name is "+ name);
-documentcomm.getElementById('akan').innerHTML = "You were born on " + daysOfTheWeek[d] +  " and your Akan name is: " + maleNames[d] ;
 
 }
 
