@@ -17,7 +17,9 @@ h2 {
 }
 .container{
     background-color: thistle;
+    padding: 39px;
 }
 .top-part{
     padding: 100px;
+    background-color: tomato    ;
 }
