@@ -29,15 +29,17 @@ else{
 }
 //concatinating the day you were born and the Akan name
 alert("You were born on "+ dateWeek[d] + " and your Akan name is "+ name);
+documentcomm.getElementById('akan').innerHTML = "You were born on " + daysOfTheWeek[d] +  " and your Akan name is: " + maleNames[d] ;
 
 }
 
 function radioInfo (){
 var radio = document.getElementsByName('gender');
 
+
 for (var i = 0;  i<radio.length; i++)
 {
-if (radio[i].checked)
+if (radio[i].checked==true)
 {
  // do whatever you want with the checked radio
  gender = radio[i].value;
