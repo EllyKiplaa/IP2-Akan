@@ -17,11 +17,13 @@ body {
 h1{
     text-align: left;
     color:maroon;
-    font-family: Verdana, Geneva;
-}
+   font-family:Times, "Times New Roman", serif;
+} 
+
 h2{
    
     color: maroon   ;
+
 
 }
 .container{
@@ -47,5 +49,6 @@ h2{
     background-color: khaki;
     padding: 100px;
     border-radius: 100px;
+    
     
 }
