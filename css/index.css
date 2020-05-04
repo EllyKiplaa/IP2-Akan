@@ -2,7 +2,7 @@ body {
     margin: 0;
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../images/jess-bailey-q10VITrVYUM-unsplash.jpg);
+    background-image: url(/images/elly.jpg);
     background-size: cover;
     width: 100%;
     height: 40vh;
@@ -10,24 +10,45 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
+
 }
 
     
 h1{
     text-align: left;
     color:maroon;
-    font-family: Verdana, Geneva;
-}
+   font-family:Times, "Times New Roman", serif;
+} 
+
 h2{
    
     color: maroon   ;
 
+
 }
 .container{
-    background-color: thistle;
-    padding: 39px;
+
+    margin-top: 100px;
+    flex-direction: column;
+    margin-bottom: 45px;
+}
+   
+    
+.content{
+    background-color: khaki;
+    border-radius: 100px;   
+    padding: 100px;
+    flex-direction: column;
+
 }
 .top-part{
     padding: 100px;
     background-color: tomato    ;
+}
+.form{
+    background-color: khaki;
+    padding: 100px;
+    border-radius: 100px;
+    
+    
 }
