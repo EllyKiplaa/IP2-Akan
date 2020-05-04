@@ -2,7 +2,7 @@ body {
     margin: 0;
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("https://images.unsplash.com/photo-1587467440782-154ba8654ac0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjF9&auto=format&fit=crop&w=634&q=80");
+    background-image: url("../images/elly.jpg");
     background-size: cover;
     width: 100%;
     height: 40vh;
@@ -10,7 +10,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-
+   
 }
 
     
@@ -31,6 +31,7 @@ h2{
     margin-top: 100px;
     flex-direction: column;
     margin-bottom: 45px;
+
 }
    
     
